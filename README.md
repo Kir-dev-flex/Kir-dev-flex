@@ -2,7 +2,14 @@
 
 ## Я Frontend-разработчик с коммерческим опытом. Специализируюсь на разработке интерфейсов с упором на чистую архитектуру, семантику и производительность. Уделяю внимание качеству кода так же, как и визуальной составляющей продукта.
 
-## Работаю с React и TypeScript, интересуюсь сложными анимациями и интерактивными интерфейсами. Открыт к сотрудничеству и работе в крутой команде.
+## Работаю с React и TypeScript, интересуюсь сложными анимациями и интерактивными интерфейсами. Открыт к сотрудничеству и работе в крутой команде. Свободно владею английский языком (Уровень С1).
+
+## Опубликовал несколько проектов, на которые можно посмотреть:
+## 1. [Bike](https://kir-dev-flex.github.io/bike/)
+## 2. [Book](https://kir-dev-flex.github.io/book4/)
+## 3. [One more Book](https://kir-dev-flex.github.io/book/)
+## 4. [3D](https://kir-dev-flex.github.io/3d/)
+## 5. [Guacomole](https://kir-dev-flex.github.io/automatic-guacomole/)
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,vscode,figma,vite,webpack)](https://skillicons.dev)
 
