@@ -9,7 +9,6 @@
 ## 2. [Book](https://kir-dev-flex.github.io/book4/)
 ## 3. [One more Book](https://kir-dev-flex.github.io/book/)
 ## 4. [3D](https://kir-dev-flex.github.io/3d/)
-## 5. [Guacomole](https://kir-dev-flex.github.io/automatic-guacomole/)
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,vscode,figma,vite,webpack)](https://skillicons.dev)
 
