@@ -5,10 +5,11 @@
 ## Работаю с React и TypeScript, интересуюсь сложными анимациями и интерактивными интерфейсами. Открыт к сотрудничеству и работе в крутой команде. Свободно владею английский языком (Уровень С1).
 
 ## Опубликовал несколько проектов, на которые можно посмотреть:
-## 1. [Bike](https://kir-dev-flex.github.io/bike/)
-## 2. [Book](https://kir-dev-flex.github.io/book4/)
-## 3. [One more Book](https://kir-dev-flex.github.io/book/)
-## 4. [3D](https://kir-dev-flex.github.io/3d/)
+## 1. [React TODO](https://kir-dev-flex.github.io/React-todo/)
+## 2. [Bike](https://kir-dev-flex.github.io/bike/)
+## 3. [Book](https://kir-dev-flex.github.io/book4/)
+## 4. [One more Book](https://kir-dev-flex.github.io/book/)
+## 5. [3D](https://kir-dev-flex.github.io/3d/)
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,vscode,figma,vite,webpack)](https://skillicons.dev)
 
