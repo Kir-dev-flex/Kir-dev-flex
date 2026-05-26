@@ -5,7 +5,3 @@
 ### Работаю с React и TypeScript, интересуюсь сложными анимациями и интерактивными интерфейсами. Открыт к сотрудничеству и работе в крутой команде. Свободно владею английский языком (Уровень С1).
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,vscode,figma,vite,webpack)](https://skillicons.dev)
-
-### Связаться со мной:
-### Telegram: https://t.me/KirFrontend
-### Email: kir.dobychin@gmail.com  
